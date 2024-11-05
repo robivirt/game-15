@@ -1,4 +1,3 @@
-#define _GLIBCXX_DEBUG
 #include <iostream>
 #include <vector>
 #include <deque>
